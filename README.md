@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Paweł.
+- 👋 Hi, I’m Paweł ;-).
 - 👀 I’m interested in Java programming.
-- 🌱 I’m currently learning Java, Hibernate & Spring.
+- 🌱 I’m currently learning Java, Hibernate and Spring to become Java Developer.
 - 📫 How to reach me: pmaslow115@gmail.com .
 
 <!---
