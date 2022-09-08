@@ -14,9 +14,9 @@
 Resume & Contact
 paperclip My Resume / CV
 email 
-link h
+link 
 
-
+https://www.codewars.com/users/paul778899/badges/large
 
 
 
