@@ -20,6 +20,7 @@ Resume & Contact:
 
 :beginner: I'm codewars beginner.
 ![image](https://user-images.githubusercontent.com/106928352/189041122-5843107e-1acc-46ee-9527-f18098bd0739.png)
+on 08.09.22
 
 
 
