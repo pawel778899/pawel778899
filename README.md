@@ -16,7 +16,7 @@ paperclip My Resume / CV
 email 
 link 
 
-https://www.codewars.com/users/paul778899/badges/large
+![large](https://user-images.githubusercontent.com/106928352/189040977-5d9a749f-10e1-47dc-9a78-4e7bbf63466c.svg)
 
 
 
