@@ -11,10 +11,12 @@
 ![image](https://user-images.githubusercontent.com/106928352/189040685-919f00bb-9da1-4f58-a040-aa8ed5aafdca.png)
 
 
-Resume & Contact
-paperclip My Resume / CV
-email 
-link 
+Resume & Contact:
+paperclip My Resume / CV:
+email: 
+link: 
+
+
 
 ![image](https://user-images.githubusercontent.com/106928352/189041122-5843107e-1acc-46ee-9527-f18098bd0739.png)
 
