@@ -16,7 +16,7 @@ paperclip My Resume / CV
 email 
 link 
 
-![large](https://user-images.githubusercontent.com/106928352/189040977-5d9a749f-10e1-47dc-9a78-4e7bbf63466c.svg)
+![image](https://user-images.githubusercontent.com/106928352/189041122-5843107e-1acc-46ee-9527-f18098bd0739.png)
 
 
 
