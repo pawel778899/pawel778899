@@ -12,9 +12,9 @@
 
 
 Resume & Contact:
-:paperclip: My Resume / CV:
-email: 
-link: 
+- :paperclip: My Resume / CV:
+- :email: email: 
+- :link: link: 
 
 
 
