@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paweł ;-).
-- :bulb: I'm a power engineer by education.
+- :bulb: I'm a power engineer by education. I graduated from AGH (University of Science and Technology).
 - :computer: When it comes to IT, I am interested in Java programming.
 - 🌱 I’m currently learning Java, Hibernate and Spring to get my first job as a Junior Java Developer.
 - :soccer: I love sports, mainly football.
