@@ -12,7 +12,7 @@
 
 
 Resume & Contact:
-paperclip My Resume / CV:
+:paperclip: My Resume / CV:
 email: 
 link: 
 
