@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paweł ;-) .
 - :bulb: I'm a power engineer by education.
 - :computer: When it comes to IT, I am interested in Java programming.
-- 🌱 I’m currently learning Java, Hibernate and Spring to become Java Developer.
+- 🌱 I’m currently learning Java, Hibernate and Spring to get my first job as a Junior Java Developer.
 
 
 ![image](https://user-images.githubusercontent.com/106928352/189040607-1f209a83-8369-4d50-8071-fa5e09cd57b4.png)
