@@ -12,7 +12,7 @@
 ![image](https://user-images.githubusercontent.com/106928352/189040685-919f00bb-9da1-4f58-a040-aa8ed5aafdca.png)
 
 
-Resume & Contact:![Computer-Programming-Languages](https://user-images.githubusercontent.com/106928352/189601513-d695504d-6307-4266-8099-f20b2423d6d3.jpg)
+Resume & Contact:
 
 - :paperclip: My Resume / CV:
 - :email: email: 
@@ -24,7 +24,7 @@ Resume & Contact:![Computer-Programming-Languages](https://user-images.githubuse
 
 
 
-
+![Computer-Programming-Languages](https://user-images.githubusercontent.com/106928352/189601513-d695504d-6307-4266-8099-f20b2423d6d3.jpg)
 
 
 <!---- 📫 How to reach me:.
