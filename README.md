@@ -11,6 +11,8 @@
 ![image](https://user-images.githubusercontent.com/106928352/189040677-8a396b58-2081-47c6-b8d8-4cf80949d658.png)
 ![image](https://user-images.githubusercontent.com/106928352/189040685-919f00bb-9da1-4f58-a040-aa8ed5aafdca.png)
 
+:beginner: I'm codewars beginner.
+![image](https://www.codewars.com/users/pawel778899/badges/large)
 
 Resume & Contact:
 
@@ -19,8 +21,7 @@ Resume & Contact:
 - :link: link: 
 
 
-:beginner: I'm codewars beginner.
-![image](https://www.codewars.com/users/pawel778899/badges/large)
+
 
 
 
