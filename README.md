@@ -13,7 +13,7 @@
 Resume & Contact:
 
 - :paperclip: My Resume / CV:
-- :email: email: pmaslow115@gmail.com
+- :email: email: 
 - :link: link: 
 
 ![image](https://user-images.githubusercontent.com/106928352/189040607-1f209a83-8369-4d50-8071-fa5e09cd57b4.png)
