@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Paweł ;-).
-- :bulb: I'm a graduate of the University of Science and Technology in Cracow (AGH) in the field of Power Engineering.
-- :computer: When it comes to IT, I bind my future with Java programming.
-- 🌱 I'm currently studying Java programming to get my first job as a Junior Java Developer :shipit:. I look forward to participating in my first commercial project.
-- :soccer: Apart from learning programming, I love sports, mainly football.
+- 👋 Hi, I’m **Paweł** ;-).
+- :bulb: I am a graduate of the AGH University of Science and Technology in Krakow in the field of Power Engineering with a specialization in **Computer Modeling**.
+- :computer: When it comes to IT, I bind my future with **Java** programming.
+- 🌱 I'm currently studying **Java** programming to get my first job as a **Junior Java Developer** :shipit:. I look forward to participating in my first commercial project.
+- :soccer: Apart from **learning programming**, I love **sports**, mainly football.
 
 
 
