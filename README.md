@@ -1,4 +1,4 @@
-- 👋 **Hi, I’m Paweł ;-).**
+- 👋 Hi, I’m Paweł ;-).
 - :bulb: I am a graduate of the University of Science and Technology in Krakow (AGH) in the field of Power Engineering with a specialization in Computer Modeling.
 - :computer: When it comes to IT, I bind my future with Java programming.
 - 🌱 I am currently studying Java programming to get my first job as a Junior Java Developer :shipit:. I look forward to participating in my first commercial project.
