@@ -7,7 +7,7 @@
 
 
 
-:beginner: **I am codewars beginner.**
+:beginner: **I am a Codewars fighter.**
 ![image](https://www.codewars.com/users/pawel778899/badges/large)
 
 **Resume & Contact:**
