@@ -14,7 +14,7 @@
 
 - :paperclip: My Resume / CV:
 - :email: email:  pmaslow115@gmail.com 
-- :link: link:    www.linkedin.com/in/pawel-maslow
+- :link: link:    www.linkedin.com/in/pawel-maslow-it
 
 ![image](https://user-images.githubusercontent.com/106928352/189040607-1f209a83-8369-4d50-8071-fa5e09cd57b4.png)
 ![image](https://user-images.githubusercontent.com/106928352/189040649-c7e0d214-19f4-47d0-be40-cd4d389d245c.png)
